@@ -1,0 +1,1 @@
+Just run the moodleLogin.py . Then everything will happen only on browser.

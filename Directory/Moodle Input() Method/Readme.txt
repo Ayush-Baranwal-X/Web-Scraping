@@ -1,0 +1,1 @@
+Just open the moodleLogin.py file and entr the Username and Password in c:\windows\py.exe window when prompted.
